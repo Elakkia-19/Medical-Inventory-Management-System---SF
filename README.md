@@ -71,9 +71,9 @@ Key objectives include:
 
 | Role | Name |
 |------|------|
-| **Team ID** | _(Replace with actual Team ID)_ |
-| **Team Leader** | _(Replace with Leader Name)_ |
-| **Team Members** | _(Replace with Member Names)_ |
+| **Team ID** | _(NM2025TMID03981)_ |
+| **Team Leader** | _(Kaviya K)_ |
+| **Team Members** | _(Devaki V,  Elakkia M J)_ |
 | **College** | University College of Engineering, Ramanathapuram |
 | **Program** | B.E. – Computer Science and Engineering |
 | **Project Duration** | Nov/Dec 2025 |
